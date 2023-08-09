@@ -1,0 +1,18 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "grimace.moc3",
+		"Textures": [
+			"grimace.2048/texture_00.png"
+		],
+		"Physics": "grimace.physics3.json",
+		"DisplayInfo": "grimace.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		}
+	]
+}
